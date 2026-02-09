@@ -357,14 +357,16 @@
 355. The Phantom Time Hypothesis (614–911 AD): Proposed by Heribert Illig in 1991, this theory claims that nearly 300 years were artificially added to the Early Middle Ages, meaning we are currently living in the 1700s rather than the 2000s.
 356. The "Millennium Fabrication" Plot: Illig alleges that Holy Roman Emperor Otto III and Pope Sylvester II conspired to rewrite history retroactively so they could reign during the symbolic year 1000 AD, thereby legitimizing Otto’s claim to a divine empire.
 357. The Charlemagne "Ghost" Claim: A central tenet of Phantom Time is that the Emperor Charlemagne never existed but was a fictional character invented to fill the three-century gap with a glorious, manufactured heroic past.
-The "Shortened" New Chronology: Russian mathematician Anatoly Fomenko argues that all of ancient history (Greece, Rome, and Egypt) actually occurred in the Middle Ages and that recorded history only truly began around 800 AD.
-The "Great Russian Horde" Empire: Fomenko claims that prior to the 17th century, a massive Eurasian empire called the "Russian Horde" ruled the world, and its history was later "deleted" or reattributed to Western civilizations by the Vatican and the Romanov dynasty.
-The "Jesus in the 12th Century" Theory: Within New Chronology, Fomenko asserts that the historical Jesus was born in 1152 AD in Crimea and was crucified in 1185 AD near Constantinople, claiming the biblical narrative is a "reflection" of medieval events.
-The "Doublet" and "Parallelism" Method: Fomenko uses statistical "parallelism" to claim that different historical figures (e.g., various Roman Emperors and English Kings) are actually the same person appearing multiple times in a "stretched" and falsified timeline.
-The "Constantinople as Jerusalem" Narrative: New Chronology adherents believe that the biblical Jerusalem was actually Constantinople and that the Temple of Solomon is the Hagia Sophia, with the modern city of Jerusalem being a "fake" site created to match a forged history.
-The Gregorian Calendar "Three-Day Shortfall": Illig cites the 1582 Gregorian calendar reform as proof of missing time, arguing that the 10-day adjustment made by the Pope should have been 13 days if the Julian calendar had truly been running since 45 BC.
-The "Scarcity of Evidence" Argument: Both theories rely on the lack of archaeological "refuse" and architectural evolution during the "Dark Ages," claiming this "archaeological silence" proves those centuries simply never happened.
-The Garry Kasparov Endorsement: The world chess champion has famously supported Fomenko’s New Chronology, arguing that many ancient manuscripts are actually Renaissance forgeries and that his own "mathematical intuition" leads him to doubt the conventional timeline.
+358. The "Shortened" New Chronology: Russian mathematician Anatoly Fomenko argues that all of ancient history (Greece, Rome, and Egypt) actually occurred in the Middle Ages and that recorded history only truly began around 800 AD.
+359. The "Great Russian Horde" Empire: Fomenko claims that prior to the 17th century, a massive Eurasian empire called the "Russian Horde" ruled the world, and its history was later "deleted" or reattributed to Western civilizations by the Vatican and the Romanov
+360. dynasty.
+361. The "Jesus in the 12th Century" Theory: Within New Chronology, Fomenko asserts that the historical Jesus was born in 1152 AD in Crimea and was crucified in 1185 AD near Constantinople, claiming the biblical narrative is a "reflection" of medieval events.
+362. The "Doublet" and "Parallelism" Method: Fomenko uses statistical "parallelism" to claim that different historical figures (e.g., various Roman Emperors and English Kings) are actually the same person appearing multiple times in a "stretched" and falsified timeline.
+363. The "Constantinople as Jerusalem" Narrative: New Chronology adherents believe that the biblical Jerusalem was actually Constantinople and that the Temple of Solomon is the Hagia Sophia, with the modern city of Jerusalem being a "fake" site created to match a forged history.
+364. regorian Calendar "Three-Day Shortfall": Illig cites the 1582 Gregorian calendar reform as proof of missing time, arguing that the 10-day adjustment made by the Pope should have been 13 days if the Julian calendar had truly been running since 45 BC.
+365. The "Scarcity of Evidence" Argument: Both theories rely on the lack of archaeological "refuse" and architectural evolution during the "Dark Ages," claiming this "archaeological silence" proves those centuries simply never happened.
+366. The Garry Kasparov Endorsement: The world chess champion has famously supported Fomenko’s New Chronology, arguing that many ancient manuscripts are actually Renaissance forgeries and that his own "mathematical intuition" leads him to doubt the conventional timeline.
+367. 
 
 
 
